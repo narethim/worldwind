@@ -62,7 +62,6 @@ ant
 
 ```sh
 cd ~/workspace_ww/WorldWindJava
-set ANT_HOME=C:\apache\apache-ant-1.10.7
 
 # Run default demo ( gov.nasa.worldwindx.examples.ApplicationTemplate )
 run-demo.bash
