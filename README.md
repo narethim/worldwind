@@ -30,6 +30,7 @@ unzip apache-ant-1.10.7-bin.zip
 On Windows machine
 ```sh
 # On Windows machine
+set ANT_HOME=C:\apache\apache-ant-1.10.7
 
 set PATH=%PATH%;%ANT_HOME%\bin
 ```
